@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PowdevOfficial](https://github.com/PowdevOfficial)
 
-- 💬 Ask me about **react, reactJS, typescript, javascript, mongoDB, html and css**
+- 💬 Ask me about **reactJS, typescript, javascript, mongoDB, html and css**
 
 - 📫 How to reach me **powdevofficial@gmail.com**
 
