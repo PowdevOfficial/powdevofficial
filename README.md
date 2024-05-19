@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **RelBot, SecretBot**
 
-- 🌱 I’m currently learning **NextJS, C#, C++, Ruby**
+- 🌱 I’m currently learning **NextJS, java, C#, C++, Ruby**
 
 - 👯 I’m collaborate **AwardBot**
 
 - 👨‍💻 All of my projects are available at [https://github.com/PowdevOfficial](https://github.com/PowdevOfficial)
 
-- 💬 Ask me about **reactJS, typescript, javascript, mongoDB, html and css**
+- 💬 Ask me about **reactJS, nodeJS, express, java, typescript, javascript, mongoDB, html and css**
 
 - 📫 How to reach me **powdevofficial@gmail.com**
 
